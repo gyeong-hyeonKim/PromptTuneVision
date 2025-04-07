@@ -1,0 +1,18 @@
+{
+  "prompt_objects": [
+    "dog",
+    "forest",
+    "sunset"
+  ],
+  "detected_objects": [
+    "bird",
+    "dog"
+  ],
+  "appeared_objects": [
+    "dog"
+  ],
+  "missing_objects": [
+    "forest",
+    "sunset"
+  ]
+}

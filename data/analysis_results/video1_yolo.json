@@ -1,0 +1,91 @@
+[
+  {
+    "frame": "frame_0000.jpg",
+    "objects": [
+      "dog"
+    ]
+  },
+  {
+    "frame": "frame_0001.jpg",
+    "objects": [
+      "dog"
+    ]
+  },
+  {
+    "frame": "frame_0002.jpg",
+    "objects": [
+      "dog"
+    ]
+  },
+  {
+    "frame": "frame_0003.jpg",
+    "objects": [
+      "dog"
+    ]
+  },
+  {
+    "frame": "frame_0004.jpg",
+    "objects": [
+      "dog"
+    ]
+  },
+  {
+    "frame": "frame_0005.jpg",
+    "objects": [
+      "dog"
+    ]
+  },
+  {
+    "frame": "frame_0006.jpg",
+    "objects": [
+      "dog"
+    ]
+  },
+  {
+    "frame": "frame_0007.jpg",
+    "objects": [
+      "dog"
+    ]
+  },
+  {
+    "frame": "frame_0008.jpg",
+    "objects": [
+      "dog"
+    ]
+  },
+  {
+    "frame": "frame_0009.jpg",
+    "objects": [
+      "dog"
+    ]
+  },
+  {
+    "frame": "frame_0010.jpg",
+    "objects": [
+      "dog",
+      "bird"
+    ]
+  },
+  {
+    "frame": "frame_0011.jpg",
+    "objects": [
+      "dog"
+    ]
+  },
+  {
+    "frame": "frame_0012.jpg",
+    "objects": []
+  },
+  {
+    "frame": "frame_0013.jpg",
+    "objects": [
+      "bird"
+    ]
+  },
+  {
+    "frame": "frame_0014.jpg",
+    "objects": [
+      "dog"
+    ]
+  }
+]
