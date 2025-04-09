@@ -23,7 +23,7 @@ st.code(prompt_text, language="text")
 
 # 📊 2. CLIP 유사도 플롯
 st.header("📈 CLIP Similarity per Frame")
-st.image(CLIP_PLOT_PATH, caption="CLIP 유사도 분석 결과", use_column_width=700)
+st.image(CLIP_PLOT_PATH, caption="CLIP 유사도 분석 결과", use_container_width=700)
 
 # 🧠 3. YOLO 탐지 객체 요약
 st.header("🔍 YOLO Detected Objects")
