@@ -1,0 +1,70 @@
+[
+  {
+    "frame": "frame_0000.jpg",
+    "objects": [
+      "teddy bear",
+      "car",
+      "motorcycle"
+    ]
+  },
+  {
+    "frame": "frame_0001.jpg",
+    "objects": [
+      "teddy bear",
+      "car",
+      "motorcycle"
+    ]
+  },
+  {
+    "frame": "frame_0002.jpg",
+    "objects": [
+      "teddy bear",
+      "car",
+      "motorcycle",
+      "person"
+    ]
+  },
+  {
+    "frame": "frame_0003.jpg",
+    "objects": [
+      "teddy bear",
+      "car",
+      "motorcycle"
+    ]
+  },
+  {
+    "frame": "frame_0004.jpg",
+    "objects": [
+      "teddy bear",
+      "car",
+      "motorcycle"
+    ]
+  },
+  {
+    "frame": "frame_0005.jpg",
+    "objects": [
+      "teddy bear",
+      "car",
+      "motorcycle",
+      "person"
+    ]
+  },
+  {
+    "frame": "frame_0006.jpg",
+    "objects": [
+      "teddy bear",
+      "car",
+      "motorcycle",
+      "person"
+    ]
+  },
+  {
+    "frame": "frame_0007.jpg",
+    "objects": [
+      "teddy bear",
+      "car",
+      "motorcycle",
+      "person"
+    ]
+  }
+]

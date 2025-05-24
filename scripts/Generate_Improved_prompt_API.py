@@ -47,7 +47,7 @@ def call_gpt(full_prompt: str) -> str:
     client = OpenAI(api_key=api_key)
 
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4o",
         messages=[
             {"role": "system", "content": "You are an expert assistant for improving video generation prompts."},
             {"role": "user", "content": full_prompt}

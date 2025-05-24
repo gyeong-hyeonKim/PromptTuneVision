@@ -1,0 +1,30 @@
+{
+  "prompt_objects": [
+    "camera",
+    "city",
+    "motorcycle",
+    "new",
+    "panda",
+    "street",
+    "york",
+    "zoom"
+  ],
+  "detected_objects": [
+    "car",
+    "motorcycle",
+    "person",
+    "teddy bear"
+  ],
+  "appeared_objects": [
+    "motorcycle"
+  ],
+  "missing_objects": [
+    "camera",
+    "city",
+    "new",
+    "panda",
+    "street",
+    "york",
+    "zoom"
+  ]
+}
