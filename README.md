@@ -111,8 +111,8 @@ project-root/
 
 | Name           | Role & Expertise |
 |----------------|------------------|
-| 김주형 (Juhyeong Kim) | Prompt pipeline, Video AI integration |
 | 김경현 (Kyunghyun Kim) | CLIP/YOLO analysis, GPT tuning, Streamlit UI |
+| 김주형 (Juhyeong Kim) | Prompt pipeline, Video AI integration |
 
 ---
 
@@ -121,11 +121,6 @@ project-root/
 > *(![image](https://github.com/user-attachments/assets/d5bbd8c0-ce26-4323-ab5f-31f5a14ea04f)
 ![image](https://github.com/user-attachments/assets/c057c358-1610-4b98-a4c5-00849b62a3bb))*
 
----
-
-## 📚 References
-
-For full academic citations, see [`docs/references.md`](./docs/references.md)
 
 ---
 
