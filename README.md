@@ -4,6 +4,8 @@
 
 ---
 
+## [Presentation](https://docs.google.com/presentation/d/1vIcXC7OETYymShbjy6T7413--IhiT2fn/edit?slide=id.p1#slide=id.p1)
+
 ## 📌 Overview
 
 This project develops a **closed-loop evaluation and tuning system** for generative video AI. It quantifies how well a text prompt is reflected in a generated video and suggests improved prompts using:
