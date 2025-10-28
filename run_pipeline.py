@@ -128,7 +128,7 @@ def run_pipeline(prompt_path, video_path, model_path="yolov8m.pt"):
 
     print("\n[6️⃣] GPT 개선 프롬프트 생성")
     prompt_context = load_context_prompt(prompt_path, comparison_path)
-    improved_prompt_text_for_gpt = create_prompt(prompt_context) # create_prompt 함수는 improved_prompt_text로 이름을 변경했었는지 확인 필요
+    improved_prompt_text_for_gpt = create_prompt(prompt_context,clip_scores) # create_prompt 함수는 improved_prompt_text로 이름을 변경했었는지 확인 필요
     improved_prompt_output = call_improved_gpt(improved_prompt_text_for_gpt)
     improved_prompt_path = os.path.join(analysis_result_dir, f"{video_name_for_files}_feedback_and_revised_prompt.txt")
     save_output(improved_prompt_output, improved_prompt_path)
